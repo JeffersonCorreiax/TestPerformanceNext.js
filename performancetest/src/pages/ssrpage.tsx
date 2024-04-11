@@ -5,7 +5,7 @@ const SsrPage = () => {
     <main className=" flex-col ">
   
 
-    <div>  TITULO </div>
+    <div>  SSR PAGE </div>
     
     <div>  MAIN </div>
     
